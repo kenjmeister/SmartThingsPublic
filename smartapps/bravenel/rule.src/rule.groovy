@@ -43,6 +43,11 @@
  *  for the specific language governing permissions and limitations under the License.
  *
  */
+/**
+ * ken's copy
+ */
+ 
+
 
 definition(
     name: "Rule",
